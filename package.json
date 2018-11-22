@@ -1,0 +1,23 @@
+{
+  "name": "web3-0.x-wrapper",
+  "version": "1.0.0",
+  "description": "Node JS package wrapper for web3@0.x to be used together with web3@1.0 as dependency.",
+  "homepage": "https://github.com/alethio/web3-0.x-wrapper",
+  "author": {
+    "name": "Adrian Sabau",
+    "email": "sabau.adi@gmail.com",
+    "url": "https://github.com/baxy"
+  },
+  "keywords": [
+    "alethio",
+    "ethstats",
+    "blockchain",
+    "ethereum",
+    "web3"
+  ],
+  "dependencies": {
+    "web3": "0.20.7"
+  },
+  "license": "MIT",
+  "repository": "git@github.com:alethio/web3-0.x-wrapper.git"
+}
